@@ -1,0 +1,50 @@
+{
+    "manifest": {
+        "author": "cyriotic3",
+        "name": "Twitch",
+        "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Twitch\/main\/Twitch.json",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": 865159167,
+        "accent": -7256065,
+        "input_background": -15856112,
+        "statusbar": -15856112
+    },
+    "colors": {
+        "brand_new_560": 0,
+        "link": -7256065,
+        "primary_700": -15198182,
+        "primary_dark_200": -1,
+        "primary_dark_300": -7256065,
+        "primary_dark_400": -5395017,
+        "primary_dark_600": -15856112,
+        "primary_dark_630": -15198182,
+        "primary_dark_660": -13487564,
+        "primary_dark_700": -15856112,
+        "primary_dark_800": -15856112,
+        "uikit_btn_bg_color_selector_red": -7256065,
+        "uikit_btn_compound_color_selector_dark": -7256065,
+        "primary_dark_360": -5395017,
+        "uikit_settings_item_text_color_dark": -1
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -12434878,
+        "drawable_button_red": -12434878,
+        "drawable_overlay_channels_selected_dark": -12961220,
+        "drawable_voice_sensitivity_progress": -7256065,
+        "drawable_voice_user_background_speaking": -7256065,
+        "ic_channel_announcements": -1,
+        "ic_channel_text": -1,
+        "ic_channel_text_locked": -1,
+        "ic_channel_text_nsfw": -1,
+        "ic_sidebar_notifications_off_dark_24dp": -11260020,
+        "ic_sidebar_notifications_on_dark_24dp": -7256065,
+        "ic_sidebar_pins_off_dark_24dp": -7256065,
+        "ic_direct_message_header": -1,
+        "ic_group_message_header": -1,
+        "ic_menu_24dp": -1
+    }
+}
