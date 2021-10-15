@@ -3,7 +3,7 @@
         "author": "cyriotic3",
         "name": "Twitch",
         "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Twitch\/main\/Twitch.json",
-        "version": "1.0.0"
+        "version": "1.0.4"
     },
     "background": {},
     "fonts": {},
@@ -14,7 +14,6 @@
         "statusbar": -15856112
     },
     "colors": {
-        "brand_new_560": 0,
         "link": -7256065,
         "primary_700": -15198182,
         "primary_dark_200": -1,
@@ -28,7 +27,10 @@
         "uikit_btn_bg_color_selector_red": -7256065,
         "uikit_btn_compound_color_selector_dark": -7256065,
         "primary_dark_360": -5395017,
-        "uikit_settings_item_text_color_dark": -1
+        "uikit_settings_item_text_color_dark": -1,
+        "abc_tint_switch_track": -15856112,
+        "brand_new_560": -10983950,
+        "uikit_settings_item_text_color_light": -5395017
     },
     "drawable_tints": {
         "drawable_button_grey": -12434878,
@@ -45,6 +47,7 @@
         "ic_sidebar_pins_off_dark_24dp": -7256065,
         "ic_direct_message_header": -1,
         "ic_group_message_header": -1,
-        "ic_menu_24dp": -1
+        "ic_menu_24dp": -1,
+        "ic_sidebar_search_24dp": -7256065
     }
 }
